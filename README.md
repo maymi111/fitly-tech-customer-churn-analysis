@@ -45,4 +45,4 @@ The analysis covered:
 
 - [View Project Report](./Fitly_Tech_Customer_Churn_Analysis.pdf)
 
-- [View Presentation](./Fitly_Tech_Customer_Churn_Presentation.pptx)
+- [View Presentation](./Fitly_Tech_Customer_Churn_Presentation.pdf)
