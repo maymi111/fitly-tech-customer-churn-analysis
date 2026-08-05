@@ -41,8 +41,8 @@ The analysis covered:
 
 ## Files
 
-- `Fitly_Tech_Customer_Churn_Analysis.ipynb` — Python analysis and code
+- [View Jupyter Notebook](./Fitly_Tech_Customer_Churn_Analysis.ipynb)
 
-- `Fitly_Tech_Customer_Churn_Analysis.pdf` — Detailed project report
+- [View Project Report](./Fitly_Tech_Customer_Churn_Analysis.pdf)
 
-- `Fitly_Tech_Customer_Churn_Presentation.pptx` — Presentation summary
+- [View Presentation](./Fitly_Tech_Customer_Churn_Presentation.pptx)
